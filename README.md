@@ -1,6 +1,6 @@
 # Arin reverse Whois Lookup on NET handler property
 
-```shell
+```bash
   python3 arin_handler.py -h                 
 usage: arin_handler.py [-h] [--cidr] [--orgname] [--asn]
 
